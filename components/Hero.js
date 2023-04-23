@@ -51,7 +51,7 @@ function Other({ name, image }) {
 
 function Hero() {
   return (
-    <section className="h-screen snap snap-y snap-mandatory overflow-y-scroll overflow-x-hidden">
+    <section className="h-screen snap snap-y overflow-y-scroll overflow-x-hidden">
         <CAR 
             name="Model Y"
             image="tesla-modelY.jpg"
